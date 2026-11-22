@@ -1,0 +1,12 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Javier_Parada_HERPM1305_23" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Javier_Parada_HERPM1305_23" parent="Base.Theme.Javier_Parada_HERPM1305_23" />
+    <style name="Theme.DetalleCamara"
+        parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Security Camera - Javier Parada</string>
+    <string name="descripcion_camara">Imagen de cámara de seguridad</string>
+    <string name="precio_camara">$%1$s</string>
+</resources>
